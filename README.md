@@ -5,10 +5,10 @@ Fork from PICA (https://github.com/Raymond-sci/PICA)
 # Introduction
 
 
-<div style="background-color: white"><img width="335" height="200" src="image/ill_sample.png" alt="sample view" style="float:left"/></div>
+<div style="background-color: white"><img width="335" height="200" src="image/ill_sample.png" alt="sample view" style="float: left"/></div>
 
 
-<div style="background-color: white"><img width="335" height="200" src="image/ill_class.png" alt="class view" style="float:right"/></div>
+<div style="background-color: white"><img width="335" height="200" src="image/ill_class.png" alt="class view" style="float: right"/></div>
 
 <br>
 
