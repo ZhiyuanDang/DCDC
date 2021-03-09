@@ -5,17 +5,7 @@ Forked from PICA (https://github.com/Raymond-sci/PICA).
 ## Introduction
 
 
-<div style="display: flex; justify-content: center">
-    <div style="display: flex; flex-direction: column">
-        <img width="335" height="200" src="image/ill_sample.jpg" alt="sample view" />
-        <div style="text-align: center">(1) Sample View</div>
-    </div>
-    <div style="display: flex; flex-direction: column">
-        <img width="335" height="200" src="image/ill_class.jpg" alt="sample view" />
-        <div style="text-align: center">(2) Class View</div>
-    </div>
-</div>
-
+<img src="image/ill.jpg" width="800" />
 
 <p> Illustration of our idea. Do contrastive learning from two views: sample and class view. The goal of sample view is to pull positive sample pair together and push negative sample pairs apart. Class view intends to pull positive class pair together and push negative class pairs apart. </p>
 
