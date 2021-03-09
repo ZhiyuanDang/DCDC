@@ -1,0 +1,57 @@
+name: dcdc
+channels:
+  - pytorch
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - blas=1.0=openblas
+  - ca-certificates=2020.6.24=0
+  - certifi=2019.11.28=py27_0
+  - cffi=1.14.0=py27he30daa8_1
+  - cudatoolkit=10.0.130=0
+  - freetype=2.5.5=2
+  - future=0.18.2=py27_0
+  - intel-openmp=2020.1=217
+  - jbig=2.1=hdba287a_0
+  - jpeg=9b=h024ee3a_2
+  - libedit=3.1.20191231=h7b6447c_0
+  - libffi=3.3=he6710b0_1
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libgfortran=3.0.0=1
+  - libpng=1.6.37=hbc83047_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - libtiff=4.0.6=3
+  - mkl=2020.1=217
+  - ncurses=6.2=he6710b0_1
+  - ninja=1.9.0=py27hfd86e86_0
+  - numpy=1.13.1=py27_nomkl_0
+  - olefile=0.46=py27_0
+  - openblas=0.2.19=0
+  - pillow=4.2.1=py27_0
+  - pip=19.3.1=py27_0
+  - pycparser=2.20=py_0
+  - python=2.7.18=h15b4118_1
+  - pytorch=1.4.0=py2.7_cuda10.0.130_cudnn7.6.3_0
+  - pyyaml=3.12=py27_0
+  - readline=8.0=h7b6447c_0
+  - scipy=0.19.1=np113py27_nomkl_0
+  - setuptools=44.0.0=py27_0
+  - six=1.15.0=py_0
+  - sqlite=3.32.3=h62c20be_0
+  - tk=8.6.10=hbc83047_0
+  - torchvision=0.5.0=py27_cu100
+  - typing=3.7.4.1=py27_0
+  - wheel=0.33.6=py27_0
+  - xz=5.2.5=h7b6447c_0
+  - yaml=0.1.6=0
+  - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - easydict==1.9
+    - prettytable==0.7.2
+    - protobuf==3.12.2
+    - scikit-learn==0.20.4
+    - sklearn==0.0
+    - tensorboardx==2.1
+prefix: /home/user/anaconda2/envs/dcdc
+
