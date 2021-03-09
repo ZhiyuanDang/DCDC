@@ -16,7 +16,7 @@ Fork from PICA (https://github.com/Raymond-sci/PICA).
 ## Framework
 
 <img src="image/structure.jpg" width="800" />
-The framework of the proposed network: Doubly Contrastive Deep Clustering (DCDC). We have **Sample-wise Constrative Loss** and **Class-wise Constrastive Loss** in our DCDC method.
+The framework of the proposed network: Doubly Contrastive Deep Clustering (DCDC). We have <b>Sample-wise Constrative Loss</b> and <b>Class-wise Constrastive Loss</b> in our DCDC method.
 
 ## Main Results
 <img src="image/results.jpg" width="800" />
