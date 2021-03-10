@@ -31,4 +31,13 @@ Python 2.7 and Pytorch 1.4.0 are required. Please refer to [environment.yml](./e
 Every time the `main.py` is run, a new session will be started with the name of current timestamp and all the generated files will be stored in folder `sessions/timestamp/` including checkpoints, logs, etc. Use the flag `--session` to specify a session name and `--debug` to produce no file.
 
 ## Citation
-
+```
+@misc{dang2021doubly,
+      title={Doubly Contrastive Deep Clustering}, 
+      author={Zhiyuan Dang and Cheng Deng and Xu Yang and Heng Huang},
+      year={2021},
+      eprint={2103.05484},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
