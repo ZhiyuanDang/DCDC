@@ -20,7 +20,7 @@ The framework of the proposed network: Doubly Contrastive Deep Clustering (DCDC)
 
 ## Run
 ### Requirements
-Python 2.7 and Pytorch 1.4.0 are required. Please refer to [environment.yml](./environment.yml) for more details.
+Python 2.7 and Pytorch 1.4.0 are required. Please refer to [environment.yaml](./environment.yaml) for more details.
 ### Usages
 1. Clone this repo: `git clone https://github.com/ZhiyuanDang/DCDC.git`.
 2. Download datasets: [CIFAR-10/100](https://www.cs.toronto.edu/~kriz/cifar.html), [STL-10](http://ai.stanford.edu/~acoates/stl10/) and [Tiny-ImageNet](http://cs231n.stanford.edu/tiny-imagenet-200.zip).
